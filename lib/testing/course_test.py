@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from Course import Course
 
 class Test_Course:
